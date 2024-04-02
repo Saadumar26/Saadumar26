@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm Saadumar26 - an intrepid explorer navigating the realms of data while pursuing my BSIT at Bahauddin Zakariya University, Multan, Pakistan!
+- 👋 Hey there, I'm M. Saad Umar - an intrepid explorer navigating the realms of data while pursuing my BSIT at Bahauddin Zakariya University, Multan, Pakistan!
 - 👀 My curiosity orbits around the cosmos of Data Science, where every insight is a star waiting to be discovered.
 - 🌱 Currently, I'm watering the seeds of knowledge, nurturing my skills in machine learning, and cultivating creativity through data visualization.
 - 💞️ Seeking fellow cosmic wanderers to collaborate on projects that unravel the mysteries hidden within datasets.
