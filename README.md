@@ -1,16 +1,31 @@
-# 💫 About Me:
-🚀🌌 **Greetings, intergalactic data voyagers!** I am **M. Saad Umar**, the self-proclaimed **Data Wizard**, currently on a quest to decode the universe's secrets while pursuing my BSIT at **Bahauddin Zakariya University, Multan, Pakistan**. 🪄📊
+# 💫 About Me
 
-👁️ **My curiosity?** It’s a comet blazing through the vast cosmos of **Data Science**, where each dataset is a constellation, and every insight is a supernova waiting to burst forth! 🌠
+🚀🌌 **Greetings, intergalactic data voyagers!** I’m **M. Saad Umar**, a freshly graduated **Data Wizard** from **Bahauddin Zakariya University, Multan**, with a BS in **Information Technology**—trained in the arcane arts of machine learning, deep learning, and the mysterious powers of natural language processing. 🪄📊
 
-🌱 Right now, I’m cultivating my skills in **machine learning** and growing my forest of creativity with vibrant **data visualizations**, each leaf a new discovery. 🌳✨
+🔭 **My Universe?** It’s built from data—where each dataset is a constellation and every pattern discovered is a supernova of insight. I’m particularly passionate about **NLP**, **text classification**, and transforming raw data into real-world impact.
 
-💡 I’m on the lookout for fellow explorers—those brave enough to journey into the unknown and unravel the hidden mysteries coded in the language of data. Let’s turn numbers into narratives and datasets into dreams. 🚀
+🌱 **What am I exploring now?**
+- Fine-tuning transformers like **DistilBERT** for **Fake News Detection**
+- Building a **Multi-label Emotion Recognition System** using the **GoEmotions** dataset
+- Detecting anomalies in **financial time-series data** using **Isolation Forests and LSTM**
+- Segmenting customers through **clustering algorithms** with real-world retail data
 
-🛰️ **Ready to chart this course together?** Send a signal my way at **saadumar264@gmail.com**, or dispatch your intergalactic pigeon—it’s the preferred method of the truly daring. 🕊️🌌
+📊 From **data cleaning incantations** to **model evaluation spells**, I bring magic to every step of the ML pipeline. My tools of choice? Python, TensorFlow, Scikit-learn, Pandas, Matplotlib, and a bit of dark magic (okay… it’s just regular expressions).
 
-😄 **Pronouns:** Data Wizard  
-⚡ **Fun fact:** In an epic experiment, I tried to teach my pet goldfish to code. While it didn’t quite conquer Python, it’s now an expert in swimming through the currents of algorithmic patterns! 🐟📚
+🧠 I love weaving **stories with data**, creating visually engaging **Streamlit dashboards**, and turning chaos into clarity.
+
+📬 **Let's Collaborate or Connect!**
+Whether you’re a fellow explorer, recruiter, or just curious about my journey:
+- 📧 **Email**: saadumar264@gmail.com  
+- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-saad-umar-632a4a28a](https://linkedin.com/in/muhammad-saad-umar-632a4a28a)
+
+😄 **Pronouns:** Data Wizard / He/Him  
+⚡ **Fun Fact:** I once tried teaching my goldfish Python. It didn’t quite get the syntax, but it mastered the art of swimming through loops. 🐟💻
+
+---
+
+> _"The world is full of data—those who listen carefully can hear it speak."_  
+> — M. Saad Umar
 
 
 
