@@ -1,26 +1,26 @@
-# 💫 About Me
+# About Me
 
-🚀🌌 **Greetings, intergalactic data voyagers!** I’m **M. Saad Umar**, a freshly graduated **Data Wizard** from **Bahauddin Zakariya University, Multan**, with a BS in **Information Technology** trained in the arcane arts of machine learning, deep learning, and the mysterious powers of natural language processing. 🪄📊
+**Greetings, intergalactic data voyagers!** I’m **M. Saad Umar**, a freshly graduated **Data Wizard** from **Bahauddin Zakariya University, Multan**, with a BS in **Information Technology**, trained in the arcane arts of machine learning, deep learning, and the mysterious powers of natural language processing.
 
-🔭 **My Universe?** It’s built from data where each dataset is a constellation and every pattern discovered is a supernova of insight. I’m particularly passionate about **NLP**, **text classification**, and transforming raw data into real-world impact.
+**My Universe?** It’s built from data where each dataset is a constellation and every pattern discovered is a supernova of insight. I’m particularly passionate about **NLP**, **text classification**, and transforming raw data into real-world impact.
 
-🌱 **What am I exploring now?**
+**What am I exploring now?**
 - Fine-tuning transformers like **DistilBERT** for **Fake News Detection**
 - Building a **Multi-label Emotion Recognition System** using the **GoEmotions** dataset
 - Detecting anomalies in **financial time-series data** using **Isolation Forests and LSTM**
 - Segmenting customers through **clustering algorithms** with real-world retail data
 
-📊 From **data cleaning incantations** to **model evaluation spells**, I bring magic to every step of the ML pipeline. My tools of choice? Python, TensorFlow, Scikit-learn, Pandas, Matplotlib, and a bit of dark magic (okay… it’s just regular expressions).
+From **data cleaning incantations** to **model evaluation spells**, I bring magic to every step of the ML pipeline. My tools of choice? Python, TensorFlow, Scikit-learn, Pandas, Matplotlib, and a bit of dark magic (okay… it’s just regular expressions).
 
-🧠 I love weaving **stories with data**, creating visually engaging **Streamlit dashboards**, and turning chaos into clarity.
+I love weaving **stories with data**, creating visually engaging **Streamlit dashboards**, and turning chaos into clarity.
 
-📬 **Let's Collaborate or Connect!**
+**Let's Collaborate or Connect!**
 Whether you’re a fellow explorer, recruiter, or just curious about my journey:
-- 📧 **Email**: saadumar264@gmail.com  
-- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-saad-umar-632a4a28a](https://linkedin.com/in/muhammad-saad-umar-632a4a28a)
+- **Email**: saadumar264@gmail.com  
+- **LinkedIn**: [linkedin.com/in/muhammad-saad-umar-632a4a28a](https://linkedin.com/in/muhammad-saad-umar-632a4a28a)
 
-😄 **Pronouns:** Data Wizard / He/Him  
-⚡ **Fun Fact:** I once tried teaching my goldfish Python. It didn’t quite get the syntax, but it mastered the art of swimming through loops. 🐟💻
+**Pronouns:** Data Wizard / He/Him  
+**Fun Fact:** I once tried teaching my goldfish Python. It didn’t quite get the syntax, but it mastered the art of swimming through loops. 
 
 ---
 
