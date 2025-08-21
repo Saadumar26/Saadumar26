@@ -1,8 +1,8 @@
 # 💫 About Me
 
-🚀🌌 **Greetings, intergalactic data voyagers!** I’m **M. Saad Umar**, a freshly graduated **Data Wizard** from **Bahauddin Zakariya University, Multan**, with a BS in **Information Technology**—trained in the arcane arts of machine learning, deep learning, and the mysterious powers of natural language processing. 🪄📊
+🚀🌌 **Greetings, intergalactic data voyagers!** I’m **M. Saad Umar**, a freshly graduated **Data Wizard** from **Bahauddin Zakariya University, Multan**, with a BS in **Information Technology** trained in the arcane arts of machine learning, deep learning, and the mysterious powers of natural language processing. 🪄📊
 
-🔭 **My Universe?** It’s built from data—where each dataset is a constellation and every pattern discovered is a supernova of insight. I’m particularly passionate about **NLP**, **text classification**, and transforming raw data into real-world impact.
+🔭 **My Universe?** It’s built from data where each dataset is a constellation and every pattern discovered is a supernova of insight. I’m particularly passionate about **NLP**, **text classification**, and transforming raw data into real-world impact.
 
 🌱 **What am I exploring now?**
 - Fine-tuning transformers like **DistilBERT** for **Fake News Detection**
