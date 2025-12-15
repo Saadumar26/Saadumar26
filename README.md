@@ -17,14 +17,14 @@ I love weaving **stories with data**, creating visually engaging **Streamlit das
 **Let's Collaborate or Connect!**
 Whether you’re a fellow explorer, recruiter, or just curious about my journey:
 - **Email**: saadumar264@gmail.com  
-- **LinkedIn**: [linkedin.com/in/muhammad-saad-umar-632a4a28a](https://linkedin.com/in/muhammad-saad-umar-632a4a28a)
+- **LinkedIn**: [linkedin.com/in/muhammadsaadumar](https://www.linkedin.com/in/muhammadsaadumar/)
 
 **Pronouns:** Data Wizard / He/Him  
 **Fun Fact:** I once tried teaching my goldfish Python. It didn’t quite get the syntax, but it mastered the art of swimming through loops. 
 
 ---
 
-> _"The world is full of data—those who listen carefully can hear it speak."_  
+> _"The world is full of data; those who listen carefully can hear it speak."_  
 > — M. Saad Umar
 
 
