@@ -178,15 +178,6 @@ Contributed **Urdu/Pakistani cultural riddles** for multilingual NLP evaluation 
 
 > 📁 *Certificate images available in [/assets](./assets/) folder of this repo*
 
----
-
-## 🌏 International Programs
-
-| Program | Status |
-|---|---|
-| 🇯🇵 Japan METI Internship Program 2026 (Pasona/METI) | ✅ **Selected** — Confirmation: PK024910 |
-| 🇮🇹 MSc Applied CS (AI Track) — University of Naples Parthenope | 📨 Applied June 2026 |
-| 🇮🇪 PhD Inquiry — Rinn AI Programme, UCC Ireland | 📨 Submitted |
 
 ---
 
@@ -214,7 +205,7 @@ Contributed **Urdu/Pakistani cultural riddles** for multilingual NLP evaluation 
 **AI/ML Intern — DevelopersHub Corporation**
 ML pipelines · NLP models · Text classification · Data preprocessing
 
-**Intern — CleanSul**
+**Intern — CleanSol**
 Data-driven projects · Early career
 
 ---
