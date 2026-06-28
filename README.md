@@ -26,19 +26,19 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-I'm a **Pakistani AI/ML Engineer** building NLP systems that solve real problems — fake news, scam detection, language understanding. I don't just build for accuracy scores; I build for impact.
+I'm a **Pakistani AI/ML Engineer** who enjoys building NLP systems that actually do something useful. My work has ranged from fake news detection to scam detection in Urdu, and I care about making AI work for languages and cultures that are usually left out.
 
-**What makes me different:**
+**A few things about me:**
 
-&nbsp;&nbsp;🧠 My FYP is live on Hugging Face — not just in a GitHub repo
+&nbsp;&nbsp;🧠 My FYP is deployed on Hugging Face, not sitting in a private repo
 
-&nbsp;&nbsp;🌍 I've competed against thousands globally and placed
+&nbsp;&nbsp;🌍 I've competed in international coding competitions and held my own
 
-&nbsp;&nbsp;🏫 Stanford trusted me to teach their students
+&nbsp;&nbsp;🏫 Stanford picked me to teach their CS106A students in 2026
 
-&nbsp;&nbsp;🇵🇰 I contribute to NLP research for Urdu — my own language
+&nbsp;&nbsp;🇵🇰 I contribute to NLP research for Urdu because it matters to me personally
 
-&nbsp;&nbsp;📦 I ship end-to-end: models → APIs → deployed apps
+&nbsp;&nbsp;📦 I build things end to end, from training a model to deploying it
 
 <br clear="right"/>
 
@@ -62,74 +62,82 @@ I'm a **Pakistani AI/ML Engineer** building NLP systems that solve real problems
 
 ## 🎓 Stanford Code in Place 2026 — Section Leader
 
-> *Selected globally to teach Stanford's CS106A (Python) to international students*
+> *Selected from a global applicant pool to teach Stanford's CS106A to international students*
 
-Conducted **6 weekly sessions** (April – June 2026) covering Karel, Python fundamentals, Control Flow, Graphics, and Data Structures. Certificate verified by **Stanford Engineering, Center for Global & Online Education**.
+I ran **6 weekly sessions** from April to June 2026, covering Karel, Python basics, Control Flow, Graphics, and Data Structures. My students came from different countries and different backgrounds, which made teaching genuinely interesting. The credential is verified by **Stanford Engineering, Center for Global & Online Education**.
 
 ---
 
 ## 🚀 What I've Built
 
-### 🔍 Fake News Detector
-**FYP · Live on Hugging Face**
-Fine-tuned DistilBERT on **33,700+ articles** achieving **99.94% accuracy**. End-to-end pipeline: data collection → preprocessing → fine-tuning → deployed Streamlit app.
-`DistilBERT` `PyTorch` `HuggingFace Transformers` `Streamlit`
-[→ GitHub](https://github.com/Saadumar26/Fake-News-Detection-using-Deep-Learning) · [→ Live Demo](https://huggingface.co/saadumar26)
+> Projects organized by domain — click a category to explore
 
 ---
 
-### 📱 SMS Scam Detector
+### 🔤 NLP & Misinformation Detection
+
+#### 🔍 Fake News Detector
+**FYP · Live on Hugging Face**
+This was my final year project. I fine-tuned DistilBERT on over **33,700 articles** and got it to **99.94% accuracy**. The whole thing is deployed, so you can actually try it, it is not just a notebook sitting somewhere.
+`DistilBERT` `HuggingFace Transformers` `Streamlit`
+[→ GitHub](https://github.com/Saadumar26/Fake-News-Detection-using-Deep-Learning) · [→ Model on HuggingFace](https://huggingface.co/saadumar26/fake-news-detector)
+
+#### 📱 SMS Scam Detector
 **HuggingFace Build Small Hackathon**
-Pakistan-focused multilingual scam detector supporting Urdu, English, and Roman Urdu. Hybrid JSON-output + template architecture using Qwen2.5-7B-Instruct.
+Built this because scam messages are a real problem in Pakistan, including for people in my own family. It handles Urdu, English, and Roman Urdu. I used Qwen2.5-7B with a hybrid output approach that keeps the model from making things up.
 `Qwen2.5-7B` `HuggingFace` `Multilingual NLP` `Python`
 [→ HuggingFace](https://huggingface.co/saadumar26)
 
+#### 📰 AI Text Summarizer
+An academic project where I built a text summarization tool using BART. Straightforward but it helped me get comfortable with the HuggingFace ecosystem before my FYP.
+`BART` `HuggingFace Transformers` `Python` `Streamlit`
+[→ GitHub](https://github.com/Saadumar26/ai_summarizer)
+
 ---
 
-### 🤖 ScholarAI
+### 🤖 Generative AI & LLM Applications
+
+#### 🔭 ScholarAI
 **Gemini 3 Hackathon · Google AI Studio**
-AI research assistant that ingests academic papers and produces structured summaries, identifies research gaps, supports document-grounded Q&A, and generates learning roadmaps using Gemini API.
-`React 18` `TypeScript` `Google Gemini API` `Vite`
+A research assistant that actually reads papers for you. You feed it a document and it gives you a structured summary, flags what is missing from the literature, answers questions about it, and suggests what to study next. Built with Gemini API during the hackathon.
+`Google Gemini API` `React 18` `TypeScript` `Vite`
 [→ GitHub](https://github.com/Saadumar26/Gemini-3-Hackathon) · [→ Live Demo](https://aistudio.google.com/apps/drive/1Y4XXnhx5rj725aRxljccrz_x5bGAMZ5p)
 
----
-
-### 🏥 Foresight — Healthcare Cost Simulator
-**USAII Global AI Hackathon 2026 · Graduate Track**
-AI decision-support for Nigerian primary healthcare directors. Maps 774 LGAs, models human and economic cost of delayed intervention via Monte Carlo simulation. R² improved from −0.62 → **+0.68** after controlling for education confounders.
-`Python` `Ridge Regression` `GeoPandas` `Streamlit` `Monte Carlo`
-[→ GitHub](https://github.com/hareshraj/Foresight-Cost-of-Doing-Nothing)
-
----
-
-### 🥇 RepoHunter
-**1st Place · CodeFusion Hackathon 2025 (iCodeGuru × WPBrigade)**
-Smart GitHub repository explorer with real-time search, advanced filtering, and MCP protocol integration. Deployed on Vercel.
-`React` `TypeScript` `MCP Protocol` `Node.js` `GitHub API` `Vercel`
-[→ GitHub](https://github.com/Pakeeza1508/CodeFusion) · [→ Live](https://repo-hunters.vercel.app/)
-
----
-
-### 🏙️ City-Wallet MVP
+#### 🏙️ City-Wallet MVP
 **Hack-Nation × World Bank Global AI Hackathon 2026**
-Context-aware local commerce platform. Detects user context (weather + location + merchant demand) and generates real-time personalized offers with simulated checkout flow.
-`Google Gemini API` `Express/TypeScript` `React/Vite` `Replit`
+The idea here was simple: local shops lose customers because they cannot compete with big e-commerce platforms on personalization. This app reads the user's context (weather, time, location, demand signals) and generates a relevant offer in real time, with a checkout simulation built in.
+`Google Gemini API` `Express/TypeScript` `React/Vite`
 [→ GitHub](https://github.com/Saadumar26/city-wallet-hackathon)
 
 ---
 
-### 🧠 AI Research Intelligence System
+### 🧠 Agentic AI & Multi-Agent Systems
+
+#### 🔬 AI Research Intelligence System
 **DevLaunch Hackathon 2026 · Team DeepQuery AI**
-Multi-agent academic discovery platform. Four agents: DeepAnalyzer → Synthesizer → Critic → TrendPredictor — autonomously fetch and analyze arXiv papers beyond traditional RAG.
+We built this because search tools for research are not enough. This system has four agents that work together: one goes deep on a paper, one synthesizes across papers, one looks for weaknesses in the methodology, and one tries to predict where the field is heading. It pulls live papers from arXiv.
 `Python` `Multi-Agent Systems` `arXiv API` `LLM Orchestration`
 [→ GitHub](https://github.com/abdul-rehman-24/research-intelligence-ai)
 
 ---
 
-### 📰 AI Summarizer
-Academic NLP project. Text summarization pipeline using BART transformer.
-`BART` `HuggingFace Transformers` `Python` `Streamlit`
-[→ GitHub](https://github.com/Saadumar26/ai_summarizer)
+### 📊 Machine Learning & Data Science
+
+#### 🏥 Foresight — Healthcare Cost Simulator
+**USAII Global AI Hackathon 2026 · Graduate Track**
+Built for healthcare directors in Nigeria who need to make decisions about where to allocate resources. The model covers all 774 LGAs and uses Monte Carlo simulation to estimate what delayed intervention actually costs, in human lives and money. The model struggled early on (R² of -0.62) but after we controlled for education-related confounders it jumped to **+0.68**.
+`Python` `Ridge Regression` `GeoPandas` `Streamlit` `Monte Carlo`
+[→ GitHub](https://github.com/hareshraj/Foresight-Cost-of-Doing-Nothing)
+
+---
+
+### 🛠️ Developer Tools
+
+#### 🥇 RepoHunter
+**1st Place · CodeFusion Hackathon 2025 (iCodeGuru × WPBrigade)**
+A tool that makes finding GitHub repositories actually pleasant. You can search, filter, and explore repos with a clean interface. We integrated MCP protocol to make it more powerful and deployed it on Vercel. Won first place out of all teams at CodeFusion 2025.
+`React` `TypeScript` `MCP Protocol` `Node.js` `GitHub API` `Vercel`
+[→ GitHub](https://github.com/Pakeeza1508/CodeFusion) · [→ Live](https://repo-hunters.vercel.app/)
 
 ---
 
@@ -158,7 +166,7 @@ Academic NLP project. Text summarization pipeline using BART transformer.
 
 > *"AI can speak your language without knowing your world."*
 
-Contributed **Urdu/Pakistani cultural riddles** for multilingual NLP evaluation — testing whether AI truly understands culture beyond fluency. Covered Politics, History, and everyday Pakistani life. Project spans **95+ contributors, 33 countries**. Led by Károly Boczka & Julia Kreutzer (Cohere Labs).
+I contributed Urdu and Pakistani cultural riddles to this benchmark. The idea is that AI models can be fluent in a language without actually understanding the culture behind it. Riddles are a good test for this because they rely on context that does not translate. Mine covered politics, history, and everyday Pakistani life. The project has over 95 contributors from 33 countries and is led by Károly Boczka and Julia Kreutzer at Cohere Labs.
 
 ---
 
@@ -178,6 +186,15 @@ Contributed **Urdu/Pakistani cultural riddles** for multilingual NLP evaluation 
 
 > 📁 *Certificate images available in [/assets](./assets/) folder of this repo*
 
+---
+
+## 🌏 International Programs
+
+| Program | Status |
+|---|---|
+| 🇯🇵 Japan METI Internship Program 2026 (Pasona/METI) | ✅ **Selected** — Confirmation: PK024910 |
+| 🇮🇹 MSc Applied CS (AI Track) — University of Naples Parthenope | 📨 Applied June 2026 |
+| 🇮🇪 PhD Inquiry — Rinn AI Programme, UCC Ireland | 📨 Submitted |
 
 ---
 
@@ -203,10 +220,10 @@ Contributed **Urdu/Pakistani cultural riddles** for multilingual NLP evaluation 
 ## 💼 Experience
 
 **AI/ML Intern — DevelopersHub Corporation**
-ML pipelines · NLP models · Text classification · Data preprocessing
+Worked on building ML pipelines and NLP models. Most of my time went into text classification tasks and getting the data preprocessing right before any model training.
 
-**Intern — CleanSol**
-Data-driven projects · Early career
+**Intern — CleanSul**
+Early career role where I got my first exposure to working with data in a professional setting.
 
 ---
 
@@ -220,6 +237,10 @@ Data-driven projects · Early career
 <div align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadumar26&theme=react&hide_border=true&layout=pie&bg_color=0D1117" />
 </div>
+
+---
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
