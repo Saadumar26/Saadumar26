@@ -154,6 +154,8 @@ A tool that makes finding GitHub repositories actually pleasant. You can search,
 | CS50x Puzzle Day 2026 | Harvard University | Participated |
 | Advent of Code 2025 | AoC | 8 stars |
 
+Other credentials: Stanford Code in Place Section Leader (verified by Stanford Engineering, 2026), PTE Academic Overall 56 (Pearson, valid until Aug 2027). Certificate images are available in the [/assets](./assets/) folder of this repo.
+
 ---
 
 ## NLP Research Contribution
@@ -166,24 +168,15 @@ I contributed Urdu and Pakistani cultural riddles to this benchmark. The idea is
 
 ---
 
-## Certifications & Recognition
+## International Programs
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Section Leader — Code in Place | Stanford University Engineering | 2026 |
-| Top Performer — Generative AI Application Developer | UETIANS / NCEAC / HEC / PakAngels / iCodeGuru | 2026 |
-| Meta Hacker Cup — Round 2 | Meta | 2025 |
-| Certificate of Excellence — Orchestrate | HackerRank | 2026 |
-| CS50x Puzzle Day | Harvard University | 2026 |
-| CodeFusion Hackathon — Completion | WPBrigade × iCodeGuru | 2025 |
-| DevLaunch Hackathon — Participation | WPBrigade × iCodeGuru | 2026 |
-| Hack-Nation 4th & 5th — Participation | Hack-Nation | 2026 |
-| PTE Academic — Overall 56 | Pearson | 2025 (Valid 2027) |
-
-> Certificate images available in the [/assets](./assets/) folder of this repo
+| Program | Status |
+|---|---|
+| Japan METI Internship Program 2026 (Pasona/METI) | Selected — Confirmation: PK024910 |
+| MSc Applied CS (AI Track) — University of Naples Parthenope | Applied June 2026 |
+| PhD Inquiry — Rinn AI Programme, UCC Ireland | Submitted |
 
 ---
-
 
 ## Tech Stack
 
@@ -224,6 +217,10 @@ Early career role where I got my first exposure to working with data in a profes
 <div align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadumar26&theme=react&hide_border=true&layout=pie&bg_color=0D1117" />
 </div>
+
+---
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
