@@ -142,16 +142,16 @@ A tool that makes finding GitHub repositories actually pleasant. You can search,
 | Event | Organizer | Result | Certificate / Proof |
 |---|---|---|---|
 | CodeFusion Hackathon 2025 | iCodeGuru × WPBrigade | **1st Place** | [View](./assets/certificates/codefusion_2025.png) |
-| HEC GenAI Cohort 3 | NCEAC · HEC · PakAngels | **Top Performer** | [View](./assets/certificates/hec_genai_cohort3.png) |
-| Meta Hacker Cup 2025 | Meta | **Round 2 · 46th in Pakistan** · 2,606th globally | [View](./assets/certificates/meta_hacker_cup_2025.pdf) |
-| MIT Informatics Tournament 2026 | MIT | **90th globally** · 230 pts | [View](./assets/certificates/mitit_2026.png) |
+| HEC GenAI Cohort 3 | NCEAC · HEC · PakAngels | **Top Performer** | [View](./assets/certificates/hec_genai_cohort3.jpg) |
+| Meta Hacker Cup 2025 | Meta | **Round 2 · 46th in Pakistan** · 2,606th globally | [View](./assets/certificates/meta_hacker_cup_2025.png) |
+| MIT Informatics Tournament 2026 | MIT | **90th globally** · 230 pts | — |
 | HackerRank Orchestrate May 2026 | HackerRank | **873rd globally** · Certificate of Excellence | [View](./assets/certificates/hackerrank_orchestrate_2026.png) |
 | Hack-Nation 5th — Agentic Commerce | Hack-Nation | Participated | [View](./assets/certificates/hacknation_5th.png) |
 | Hack-Nation 4th — City-Wallet | Hack-Nation × World Bank | Participated | [View](./assets/certificates/hacknation_4th.png) |
 | USAII Global AI Hackathon 2026 | US AI Institute | Participated | — |
 | Gemini 3 Hackathon | Google AI Studio | Participated | — |
 | DevLaunch Hackathon 2026 | iCodeGuru × WPBrigade | Participated | [View](./assets/certificates/devlaunch_2026.png) |
-| CS50x Puzzle Day 2026 | Harvard University | Participated | [View](./assets/certificates/cs50x_puzzle_day_2026.pdf) |
+| CS50x Puzzle Day 2026 | Harvard University | Participated | [View](./assets/certificates/cs50x_puzzle_day_2026.png) |
 | Advent of Code 2025 | AoC | 8 stars | — |
 
 Other credentials: Stanford Code in Place Section Leader (verified by Stanford Engineering, 2026), PTE Academic Overall 56 (Pearson, valid until Aug 2027). Certificate images are available in the [/assets](./assets/) folder of this repo.
@@ -168,11 +168,10 @@ I contributed Urdu and Pakistani cultural riddles to this benchmark. The idea is
 
 ---
 
-
 ## Tech Stack
 
 **NLP & Generative AI**
-`HuggingFace Transformers` `BERT` `DistilBERT` `BART` `Text Classification` `Sentiment Analysis` 
+`HuggingFace Transformers` `BERT` `DistilBERT` `BART` `Text Classification` `Sentiment Analysis`
 
 **Machine Learning**
 `Scikit-learn` `Classification` `Clustering` `Feature Engineering` `Model Evaluation` `GridSearchCV`
