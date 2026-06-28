@@ -76,7 +76,7 @@ I ran 6 weekly sessions from April to June 2026, covering Karel, Python basics, 
 **FYP · Live on Hugging Face**
 This was my final year project. I fine-tuned DistilBERT on over **33,700 articles** and got it to **99.94% accuracy**. The whole thing is deployed, so you can actually try it — it is not just a notebook sitting somewhere.
 `DistilBERT` `HuggingFace Transformers` `Streamlit`
-[GitHub](https://github.com/Saadumar26/Fake-News-Detection-using-Deep-Learning) · [Model on HuggingFace](https://huggingface.co/saadumar26/fake-news-detector)
+[GitHub](https://github.com/Saadumar26/Fake-News-Detection-using-Deep-Learning) · [Live App](https://fake-news-detection-using-deep-learning-46mquyuftsbubrxddakfw8.streamlit.app/) · [Model on HuggingFace](https://huggingface.co/saadumar26/fake-news-detector)
 
 #### SMS Scam Detector
 **HuggingFace Build Small Hackathon**
@@ -97,7 +97,7 @@ An academic project where I built a text summarization tool using BART. Straight
 **Gemini 3 Hackathon · Google AI Studio**
 A research assistant that actually reads papers for you. You feed it a document and it gives you a structured summary, flags what is missing from the literature, answers questions about it, and suggests what to study next. Built with Gemini API during the hackathon.
 `Google Gemini API` `React 18` `TypeScript` `Vite`
-[GitHub](https://github.com/Saadumar26/Gemini-3-Hackathon) · [Live Demo](https://aistudio.google.com/apps/drive/1Y4XXnhx5rj725aRxljccrz_x5bGAMZ5p)
+[GitHub](https://github.com/Saadumar26/Gemini-3-Hackathon) · [Live Demo](https://aistudio.google.com/apps/drive/1Y4XXnhx5rj725aRxljccrz_x5bGAMZ5p?fullscreenApplet=true&showPreview=true&showAssistant=true)
 
 #### City-Wallet MVP
 **Hack-Nation × World Bank Global AI Hackathon 2026**
@@ -123,7 +123,7 @@ We built this because search tools for research are not enough. This system has 
 **USAII Global AI Hackathon 2026 · Graduate Track**
 Built for healthcare directors in Nigeria who need to make decisions about where to allocate resources. The model covers all 774 LGAs and uses Monte Carlo simulation to estimate what delayed intervention actually costs, in human lives and money. The model struggled early on (R² of -0.62) but after we controlled for education-related confounders it jumped to **+0.68**.
 `Python` `Ridge Regression` `GeoPandas` `Streamlit` `Monte Carlo`
-[GitHub](https://github.com/hareshraj/Foresight-Cost-of-Doing-Nothing)
+[GitHub](https://github.com/hareshraj/Foresight-Cost-of-Doing-Nothing) · [Live App](https://foresight-usaii.streamlit.app/)
 
 ---
 
@@ -133,7 +133,7 @@ Built for healthcare directors in Nigeria who need to make decisions about where
 **iCodeGuru × WPBrigade**
 A tool that makes finding GitHub repositories actually pleasant. You can search, filter, and explore repos with a clean interface. We integrated MCP protocol to make it more powerful and deployed it on Vercel. Won first place out of all teams at CodeFusion 2025.
 `React` `TypeScript` `MCP Protocol` `Node.js` `GitHub API` `Vercel`
-[GitHub](https://github.com/Pakeeza1508/CodeFusion) · [Live](https://repo-hunters.vercel.app/)
+[GitHub](https://github.com/Pakeeza1508/CodeFusion) · [Live App](https://repo-hunters.vercel.app/)
 
 ---
 
@@ -184,15 +184,6 @@ I contributed Urdu and Pakistani cultural riddles to this benchmark. The idea is
 
 ---
 
-## International Programs
-
-| Program | Status |
-|---|---|
-| Japan METI Internship Program 2026 (Pasona/METI) | Selected — Confirmation: PK024910 |
-| MSc Applied CS (AI Track) — University of Naples Parthenope | Applied June 2026 |
-| PhD Inquiry — Rinn AI Programme, UCC Ireland | Submitted |
-
----
 
 ## Tech Stack
 
@@ -233,10 +224,6 @@ Early career role where I got my first exposure to working with data in a profes
 <div align="center">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadumar26&theme=react&hide_border=true&layout=pie&bg_color=0D1117" />
 </div>
-
----
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
